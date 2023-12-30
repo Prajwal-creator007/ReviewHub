@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+}
+.centre{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#contact{
+  text-align: center;
+}
+.linked{
+    color: white;
+    font-size: large;
+    margin: 60px;
+
+}
+hr{
+    box-shadow: 0 0 5px;
+}
+div.colour{
+    background-color: rgb(19, 19, 19);
+}
+
+
+.block {  
+  background-color: rgb(15, 15, 15);  
+  padding: 10px;
+  border: 2px solid white;
+  margin: 20px;
+  display: inline-block;
+  width: 230px;
+  height: 270px;
+  color: white;
+  transition: transform .2s;
+}
+
+.block:hover {
+  transform: scale(1.1); 
+}
+
+img.main{
+    margin-top: 20px;
+    height: 150px;
+    width:150px;
+    box-shadow: 0px 0px 5px whitesmoke;
+
+}
+
+.logo{
+  width: 230px;
+  height: 150px;
+}

@@ -1,0 +1,14 @@
+.star-rating {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.star-rating span {
+  font-size: 1000px;
+  cursor: pointer;
+}
+
+.star-rating span:hover {
+  color: #ffd700;
+}
